@@ -1,0 +1,6 @@
+{
+  "name": "Max Bebidas - Gestão de Estoque",
+  "description": "Gerenciamento inteligente de adega e despensa com controle por categorias (Vinhos, Cerveja, Destilados, Sucos e Água, Mercearia, Congelados, Gelos), área de produtos próximos à validade e leitor de código de barras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
